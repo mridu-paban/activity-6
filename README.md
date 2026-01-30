@@ -1,2 +1,2 @@
 # activity-6
-version controlled infra
+version controlled infra check
